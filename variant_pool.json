@@ -1,0 +1,176 @@
+{
+  "habit_id": "meditation_001",
+  "category": "meditation",
+  "variants": [
+    {
+      "variant_id": "meditation_001_variant_1",
+      "habit_id": "meditation_001",
+      "layout": "minimal",
+      "colors": {
+        "primary": "#4A90E2",
+        "secondary": "#7B68EE",
+        "text": "#FFFFFF",
+        "accent": "#ADD8E6",
+        "gradient": "linear-gradient(135deg, #4A90E2, #7B68EE)"
+      },
+      "message": "Still point available",
+      "emoji": "\ud83e\uddd8",
+      "font_family": "SF Pro Rounded",
+      "animation": "breathe",
+      "message_tone": "inviting"
+    },
+    {
+      "variant_id": "meditation_001_variant_2",
+      "habit_id": "meditation_001",
+      "layout": "card",
+      "colors": {
+        "primary": "#FF6B6B",
+        "secondary": "#FFA500",
+        "text": "#FFFFFF",
+        "accent": "#FFD700",
+        "gradient": "linear-gradient(135deg, #FF6B6B, #FFA500)"
+      },
+      "message": "Anchor moment ready",
+      "emoji": "\ud83c\udf0a",
+      "font_family": "Segoe UI",
+      "animation": "fade",
+      "message_tone": "neutral"
+    },
+    {
+      "variant_id": "meditation_001_variant_3",
+      "habit_id": "meditation_001",
+      "layout": "banner",
+      "colors": {
+        "primary": "#2ECC71",
+        "secondary": "#27AE60",
+        "text": "#FFFFFF",
+        "accent": "#98D8C8",
+        "gradient": "linear-gradient(135deg, #2ECC71, #27AE60)"
+      },
+      "message": "Breath space open",
+      "emoji": "\ud83c\udf43",
+      "font_family": "Roboto",
+      "animation": "slide",
+      "message_tone": "playful"
+    },
+    {
+      "variant_id": "meditation_001_variant_4",
+      "habit_id": "meditation_001",
+      "layout": "badge",
+      "colors": {
+        "primary": "#9B59B6",
+        "secondary": "#8E44AD",
+        "text": "#FFFFFF",
+        "accent": "#DDA0DD",
+        "gradient": "linear-gradient(135deg, #9B59B6, #8E44AD)"
+      },
+      "message": "Pause window active",
+      "emoji": "\u262e\ufe0f",
+      "font_family": "Helvetica Neue",
+      "animation": "glow",
+      "message_tone": "inviting"
+    },
+    {
+      "variant_id": "meditation_001_variant_5",
+      "habit_id": "meditation_001",
+      "layout": "ambient",
+      "colors": {
+        "primary": "#16A085",
+        "secondary": "#1ABC9C",
+        "text": "#FFFFFF",
+        "accent": "#7FDBDA",
+        "gradient": "linear-gradient(135deg, #16A085, #1ABC9C)"
+      },
+      "message": "Clarity opportunity",
+      "emoji": "\ud83d\udd4a\ufe0f",
+      "font_family": "Georgia",
+      "animation": "none",
+      "message_tone": "neutral"
+    },
+    {
+      "variant_id": "meditation_001_variant_6",
+      "habit_id": "meditation_001",
+      "layout": "minimal",
+      "colors": {
+        "primary": "#FF69B4",
+        "secondary": "#FFB6C1",
+        "text": "#FFFFFF",
+        "accent": "#FFC0CB",
+        "gradient": "linear-gradient(135deg, #FF69B4, #FFB6C1)"
+      },
+      "message": "Silence calling",
+      "emoji": "\ud83c\udf19",
+      "font_family": "Inter",
+      "animation": "breathe",
+      "message_tone": "playful"
+    },
+    {
+      "variant_id": "meditation_001_variant_7",
+      "habit_id": "meditation_001",
+      "layout": "card",
+      "colors": {
+        "primary": "#8B4513",
+        "secondary": "#D2691E",
+        "text": "#FFFFFF",
+        "accent": "#DEB887",
+        "gradient": "linear-gradient(135deg, #8B4513, #D2691E)"
+      },
+      "message": "Center awaits",
+      "emoji": "\u2728",
+      "font_family": "Poppins",
+      "animation": "fade",
+      "message_tone": "inviting"
+    },
+    {
+      "variant_id": "meditation_001_variant_8",
+      "habit_id": "meditation_001",
+      "layout": "banner",
+      "colors": {
+        "primary": "#191970",
+        "secondary": "#4169E1",
+        "text": "#FFFFFF",
+        "accent": "#87CEEB",
+        "gradient": "linear-gradient(135deg, #191970, #4169E1)"
+      },
+      "message": "Stillness portal",
+      "emoji": "\ud83c\udf38",
+      "font_family": "Lato",
+      "animation": "slide",
+      "message_tone": "neutral"
+    },
+    {
+      "variant_id": "meditation_001_variant_9",
+      "habit_id": "meditation_001",
+      "layout": "badge",
+      "colors": {
+        "primary": "#228B22",
+        "secondary": "#32CD32",
+        "text": "#FFFFFF",
+        "accent": "#90EE90",
+        "gradient": "linear-gradient(135deg, #228B22, #32CD32)"
+      },
+      "message": "Present moment ready",
+      "emoji": "\ud83e\uddd8",
+      "font_family": "SF Pro Rounded",
+      "animation": "glow",
+      "message_tone": "playful"
+    },
+    {
+      "variant_id": "meditation_001_variant_10",
+      "habit_id": "meditation_001",
+      "layout": "ambient",
+      "colors": {
+        "primary": "#E6E6FA",
+        "secondary": "#D8BFD8",
+        "text": "#4B0082",
+        "accent": "#DDA0DD",
+        "gradient": "linear-gradient(135deg, #E6E6FA, #D8BFD8)"
+      },
+      "message": "Still point available",
+      "emoji": "\ud83c\udf0a",
+      "font_family": "Segoe UI",
+      "animation": "none",
+      "message_tone": "inviting"
+    }
+  ]
+}

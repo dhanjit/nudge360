@@ -1,0 +1,276 @@
+{
+  "config": {
+    "habit_id": "meditation_001",
+    "mean_interval_minutes": 180,
+    "std_dev_minutes": 45,
+    "min_cooldown_minutes": 60,
+    "max_daily_triggers": 4,
+    "active_hours_start": 7,
+    "active_hours_end": 22
+  },
+  "last_trigger_time": "2025-12-13T16:29:16.371626",
+  "daily_trigger_count": 3,
+  "last_reset_date": "2025-12-13",
+  "trigger_history": [
+    {
+      "trigger_id": "trigger_1",
+      "habit_id": "meditation_001",
+      "scheduled_time": "2025-12-09T20:49:34.827381",
+      "actual_fire_time": "2025-12-09T20:49:34.827381",
+      "state": "completed",
+      "context": {
+        "location": "home",
+        "focus_mode": false
+      },
+      "variant_id": "variant_4",
+      "user_response_time": 97.66430527589864
+    },
+    {
+      "trigger_id": "trigger_2",
+      "habit_id": "meditation_001",
+      "scheduled_time": "2025-12-10T07:58:31.951129",
+      "actual_fire_time": "2025-12-10T07:58:31.951129",
+      "state": "dismissed",
+      "context": {
+        "location": "home",
+        "focus_mode": false
+      },
+      "variant_id": "variant_2",
+      "user_response_time": null
+    },
+    {
+      "trigger_id": "trigger_3",
+      "habit_id": "meditation_001",
+      "scheduled_time": "2025-12-10T10:11:28.554528",
+      "actual_fire_time": "2025-12-10T10:11:28.554528",
+      "state": "completed",
+      "context": {
+        "location": "home",
+        "focus_mode": false
+      },
+      "variant_id": "variant_3",
+      "user_response_time": 113.10580639521008
+    },
+    {
+      "trigger_id": "trigger_4",
+      "habit_id": "meditation_001",
+      "scheduled_time": "2025-12-10T12:53:03.471397",
+      "actual_fire_time": "2025-12-10T12:53:03.471397",
+      "state": "completed",
+      "context": {
+        "location": "home",
+        "focus_mode": false
+      },
+      "variant_id": "variant_5",
+      "user_response_time": 107.26053632747357
+    },
+    {
+      "trigger_id": "trigger_5",
+      "habit_id": "meditation_001",
+      "scheduled_time": "2025-12-10T17:01:57.579491",
+      "actual_fire_time": "2025-12-10T17:01:57.579491",
+      "state": "completed",
+      "context": {
+        "location": "home",
+        "focus_mode": false
+      },
+      "variant_id": "variant_3",
+      "user_response_time": 227.18388144737162
+    },
+    {
+      "trigger_id": "trigger_6",
+      "habit_id": "meditation_001",
+      "scheduled_time": "2025-12-10T19:38:14.220739",
+      "actual_fire_time": "2025-12-10T19:38:14.220739",
+      "state": "completed",
+      "context": {
+        "location": "home",
+        "focus_mode": false
+      },
+      "variant_id": "variant_1",
+      "user_response_time": 39.873160384712335
+    },
+    {
+      "trigger_id": "trigger_7",
+      "habit_id": "meditation_001",
+      "scheduled_time": "2025-12-11T07:15:00.220739",
+      "actual_fire_time": "2025-12-11T07:15:00.220739",
+      "state": "completed",
+      "context": {
+        "location": "home",
+        "focus_mode": false
+      },
+      "variant_id": "variant_2",
+      "user_response_time": 205.8375932141313
+    },
+    {
+      "trigger_id": "trigger_8",
+      "habit_id": "meditation_001",
+      "scheduled_time": "2025-12-11T10:35:00.237893",
+      "actual_fire_time": "2025-12-11T10:35:00.237893",
+      "state": "dismissed",
+      "context": {
+        "location": "home",
+        "focus_mode": false
+      },
+      "variant_id": "variant_4",
+      "user_response_time": null
+    },
+    {
+      "trigger_id": "trigger_9",
+      "habit_id": "meditation_001",
+      "scheduled_time": "2025-12-11T15:07:12.438555",
+      "actual_fire_time": "2025-12-11T15:07:12.438555",
+      "state": "completed",
+      "context": {
+        "location": "home",
+        "focus_mode": false
+      },
+      "variant_id": "variant_5",
+      "user_response_time": 238.4398360418421
+    },
+    {
+      "trigger_id": "trigger_10",
+      "habit_id": "meditation_001",
+      "scheduled_time": "2025-12-11T18:45:04.652753",
+      "actual_fire_time": "2025-12-11T18:45:04.652753",
+      "state": "dismissed",
+      "context": {
+        "location": "home",
+        "focus_mode": false
+      },
+      "variant_id": "variant_5",
+      "user_response_time": null
+    },
+    {
+      "trigger_id": "trigger_11",
+      "habit_id": "meditation_001",
+      "scheduled_time": "2025-12-11T21:57:16.440101",
+      "actual_fire_time": "2025-12-11T21:57:16.440101",
+      "state": "completed",
+      "context": {
+        "location": "home",
+        "focus_mode": false
+      },
+      "variant_id": "variant_4",
+      "user_response_time": 196.79468451804942
+    },
+    {
+      "trigger_id": "trigger_12",
+      "habit_id": "meditation_001",
+      "scheduled_time": "2025-12-12T07:21:00.440101",
+      "actual_fire_time": "2025-12-12T07:21:00.440101",
+      "state": "dismissed",
+      "context": {
+        "location": "home",
+        "focus_mode": false
+      },
+      "variant_id": "variant_2",
+      "user_response_time": null
+    },
+    {
+      "trigger_id": "trigger_13",
+      "habit_id": "meditation_001",
+      "scheduled_time": "2025-12-12T09:46:40.903503",
+      "actual_fire_time": "2025-12-12T09:46:40.903503",
+      "state": "dismissed",
+      "context": {
+        "location": "home",
+        "focus_mode": false
+      },
+      "variant_id": "variant_1",
+      "user_response_time": null
+    },
+    {
+      "trigger_id": "trigger_14",
+      "habit_id": "meditation_001",
+      "scheduled_time": "2025-12-12T12:01:23.957595",
+      "actual_fire_time": "2025-12-12T12:01:23.957595",
+      "state": "dismissed",
+      "context": {
+        "location": "home",
+        "focus_mode": false
+      },
+      "variant_id": "variant_2",
+      "user_response_time": null
+    },
+    {
+      "trigger_id": "trigger_15",
+      "habit_id": "meditation_001",
+      "scheduled_time": "2025-12-12T14:56:38.029067",
+      "actual_fire_time": "2025-12-12T14:56:38.029067",
+      "state": "completed",
+      "context": {
+        "location": "home",
+        "focus_mode": false
+      },
+      "variant_id": "variant_3",
+      "user_response_time": 164.13775999939574
+    },
+    {
+      "trigger_id": "trigger_16",
+      "habit_id": "meditation_001",
+      "scheduled_time": "2025-12-12T17:27:33.361629",
+      "actual_fire_time": "2025-12-12T17:27:33.361629",
+      "state": "completed",
+      "context": {
+        "location": "home",
+        "focus_mode": false
+      },
+      "variant_id": "variant_1",
+      "user_response_time": 92.49742934849402
+    },
+    {
+      "trigger_id": "trigger_17",
+      "habit_id": "meditation_001",
+      "scheduled_time": "2025-12-13T07:13:00.361629",
+      "actual_fire_time": "2025-12-13T07:13:00.361629",
+      "state": "completed",
+      "context": {
+        "location": "home",
+        "focus_mode": false
+      },
+      "variant_id": "variant_3",
+      "user_response_time": 237.45425437745715
+    },
+    {
+      "trigger_id": "trigger_18",
+      "habit_id": "meditation_001",
+      "scheduled_time": "2025-12-13T09:58:36.325276",
+      "actual_fire_time": "2025-12-13T09:58:36.325276",
+      "state": "completed",
+      "context": {
+        "location": "home",
+        "focus_mode": false
+      },
+      "variant_id": "variant_1",
+      "user_response_time": 80.46624659816439
+    },
+    {
+      "trigger_id": "trigger_19",
+      "habit_id": "meditation_001",
+      "scheduled_time": "2025-12-13T11:35:39.751308",
+      "actual_fire_time": "2025-12-13T11:35:39.751308",
+      "state": "dismissed",
+      "context": {
+        "location": "home",
+        "focus_mode": false
+      },
+      "variant_id": "variant_3",
+      "user_response_time": null
+    },
+    {
+      "trigger_id": "trigger_20",
+      "habit_id": "meditation_001",
+      "scheduled_time": "2025-12-13T16:29:16.371626",
+      "actual_fire_time": "2025-12-13T16:29:16.371626",
+      "state": "completed",
+      "context": {
+        "location": "home",
+        "focus_mode": false
+      },
+      "variant_id": "variant_1",
+      "user_response_time": 238.862507144548
+    }
+  ]
+}
